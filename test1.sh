@@ -1,5 +1,6 @@
 #!/bin/bash
 
+#this a random comment
 # Add all changes
 git add .
 
